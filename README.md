@@ -82,8 +82,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonakFabian&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonakFabian&layout=compact&theme=tokyonight)  
+![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronakfabian&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakfabian&layout=compact&theme=tokyonight)  
 
 ---
 
