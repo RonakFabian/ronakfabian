@@ -1,16 +1,17 @@
-# <p align="center"> Hey, I'm Ronak | 🚀 DevOps Engineer  </p>
+# <p align="center"> Ronak Fabian | DevOps Engineer </p>
 
 ## I design scalable cloud infrastructure, automate deployments, and make sure systems stay fast, reliable, and observable.  
 ![IMG](https://github.com/RonakFabian/ronakfabian/blob/main/devops.png)
 
-<p align="center">
+<p>
   <a href="https://medium.com/@ronakmanfabian">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40"/>
   </a>
-  <br/>
-  <h3><b>Blog</b></h3>
+   <h3><b>Blog</b></h3>
 </p>
+
 ---
+
 ##  Tech Toolbox  
 
 ###  CI/CD & Deployment  
