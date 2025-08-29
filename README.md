@@ -24,6 +24,7 @@
 ###  Cloud (AWS)  
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+<br/>
 **Services**: EC2 | S3 | IAM | VPC | RDS | ECS | EKS | API Gateway | CloudFront | Lambda | DynamoDB | Load Balancer  
 
 ###  Monitoring & Observability  
