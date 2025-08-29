@@ -3,7 +3,8 @@
 🌍 I design scalable cloud infrastructure, automate deployments, and make sure systems stay fast, reliable, and observable.  
 
 ---
-
+## 🌐 Take A Look At My Blog!
+• 📝 [Blog](https://medium.com/@ronakmanfabian) • 
 
 ## 🔧 Tech Toolbox  
 
@@ -87,6 +88,5 @@
 
 ---
 
-## 🌐 Take A Look At My Blog!
-• 📝 [Blog]([#](https://medium.com/@ronakmanfabian) • 
+
 
