@@ -7,7 +7,7 @@
   <a href="https://medium.com/@ronakmanfabian">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="28" style="vertical-align: middle;"/>
   </a>
-  <span style="font-size: 16px; vertical-align: middle;"><b> Checkout my Blog</b></span>
+  <span style="font-size: 20px; vertical-align: top;"><b> Checkout my Blog</b></span>
 </p>
 
 
