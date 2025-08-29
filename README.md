@@ -5,8 +5,7 @@
 
 <p>
   <a href="https://medium.com/@ronakmanfabian">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40"/>
-     <h3><b>Blog</b></h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40"/><h3><b>Blog</b></h3>
   </a>
 </p>
 
