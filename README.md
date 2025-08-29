@@ -6,9 +6,10 @@
 <p>
   <a href="https://medium.com/@ronakmanfabian">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="30" style="vertical-align: middle;"/>
-    <b> Blog</b>
   </a>
+  <span><b>Blog</b></span>
 </p>
+
 
 
 ---
