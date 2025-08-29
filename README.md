@@ -6,8 +6,8 @@
 <p>
   <a href="https://medium.com/@ronakmanfabian">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40"/>
+     <h3><b>Blog</b></h3>
   </a>
-   <h3><b>Blog</b></h3>
 </p>
 
 ---
@@ -15,10 +15,13 @@
 ##  Tech Toolbox  
 
 ###  CI/CD & Deployment  
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-FB6E00?style=for-the-badge&logo=argo&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ###  Cloud (AWS)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) **Services**: EC2 | S3 | IAM | VPC | RDS | ECS | EKS | API Gateway | CloudFront | Lambda | DynamoDB | Load Balancer  
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+**Services**: EC2 | S3 | IAM | VPC | RDS | ECS | EKS | API Gateway | CloudFront | Lambda | DynamoDB | Load Balancer  
 
 ###  Monitoring & Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)  
